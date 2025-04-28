@@ -38,9 +38,6 @@ Software developer skilled in building robust, scalable and performance-focused 
 <a href="https://instagram.com/mikkel_alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikkel_alonso" height="30" width="40" /></a>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MLlAlonso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 🤯 Tech Exploration:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
@@ -50,6 +47,9 @@ Software developer skilled in building robust, scalable and performance-focused 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MLlAlonso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MLlAlonso&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
