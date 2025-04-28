@@ -5,6 +5,15 @@ Software developer skilled in building robust, scalable and performance-focused 
 <br>- 📫 How to reach me: [mikkel_03@outlook.com](mikkel_03@outlook.com)
 <br>- 💻 Fun Fact: Not only am I passionate about writing clean, scalable code, but I can also hold conversations in 5 languages (and I'm still learning Japanese! 🇯🇵). For me, internationalization is not only key in apps, but also in life and in code!<br>
 
+## 📲 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mikkel llaven alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikkel llaven alonso" height="30" width="40" /></a>
+<a href="https://wa.me/5219213029641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mikkel_alonso" height="30" width="40" /></a>
+<a href="https://twitter.com/mikkel_alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikkel_alonso" height="30" width="40" /></a>
+<a href="https://fb.com/mikkel llaven alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikkel llaven alonso" height="30" width="40" /></a>
+<a href="https://instagram.com/mikkel_alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikkel_alonso" height="30" width="40" /></a>
+</p>
+
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -28,15 +37,6 @@ Software developer skilled in building robust, scalable and performance-focused 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-## 📲 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/mikkel llaven alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikkel llaven alonso" height="30" width="40" /></a>
-<a href="https://wa.me/5219213029641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mikkel_alonso" height="30" width="40" /></a>
-<a href="https://twitter.com/mikkel_alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikkel_alonso" height="30" width="40" /></a>
-<a href="https://fb.com/mikkel llaven alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikkel llaven alonso" height="30" width="40" /></a>
-<a href="https://instagram.com/mikkel_alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikkel_alonso" height="30" width="40" /></a>
-</p>
 
 # 🤯 Tech Exploration:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
