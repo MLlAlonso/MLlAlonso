@@ -29,6 +29,15 @@ Software developer skilled in building robust, scalable and performance-focused 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
+## 📲 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/mikkel llaven alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikkel llaven alonso" height="30" width="40" /></a>
+<a href="https://wa.me/5219213029641" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mikkel_alonso" height="30" width="40" /></a>
+<a href="https://twitter.com/mikkel_alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mikkel_alonso" height="30" width="40" /></a>
+<a href="https://fb.com/mikkel llaven alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikkel llaven alonso" height="30" width="40" /></a>
+<a href="https://instagram.com/mikkel_alonso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikkel_alonso" height="30" width="40" /></a>
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MLlAlonso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
