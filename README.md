@@ -56,16 +56,31 @@ Software developer skilled in building robust, scalable and performance-focused 
 ![](https://nirzak-streak-stats.vercel.app/?user=MLlAlonso&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MLlAlonso&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<br> 🧠 Areas of interest
-<br>- Fullstack web development
-<br>- Software architecture
-<br>- Databases and optimization
-<br>- Best development practices and scalability
-<br>- Continuous personal and professional growth<br>
+<table>
+  <tr>
+    <td>
 
-<br>🌐 Languages
-<br>- Spanish: Native
-<br>- English: Intermediate (B2)
-<br>- French: Basic (A2)
-<br>- Japanese: Basic (A1) - Italian: Basic (A1)
-<br>- Italian: Basic (A1)
+🧠 **Areas of interest**
+<ul>
+  <li>Fullstack web development</li>
+  <li>Software architecture</li>
+  <li>Databases and optimization</li>
+  <li>Best development practices and scalability</li>
+  <li>Continuous personal and professional growth</li>
+</ul>
+
+    </td>
+    <td>
+
+🌐 **Languages**
+<ul>
+  <li>Spanish: Native</li>
+  <li>English: Intermediate (B2)</li>
+  <li>French: Basic (A2)</li>
+  <li>Japanese: Basic (A1)</li>
+  <li>Italian: Basic (A1)</li>
+</ul>
+
+    </td>
+  </tr>
+</table>
