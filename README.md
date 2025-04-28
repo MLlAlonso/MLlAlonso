@@ -58,9 +58,9 @@ Software developer skilled in building robust, scalable and performance-focused 
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="50%">
 
-🧠 **Areas of interest**
+<h3>🧠 Areas of interest</h3>
 <ul>
   <li>Fullstack web development</li>
   <li>Software architecture</li>
@@ -70,9 +70,9 @@ Software developer skilled in building robust, scalable and performance-focused 
 </ul>
 
     </td>
-    <td>
+    <td valign="top" width="50%">
 
-🌐 **Languages**
+<h3>🌐 Languages</h3>
 <ul>
   <li>Spanish: Native</li>
   <li>English: Intermediate (B2)</li>
