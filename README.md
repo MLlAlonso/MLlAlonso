@@ -3,7 +3,7 @@ Software developer skilled in building robust, scalable and performance-focused 
 <br>- 🌱 I'm currently learning about microservices architectures and DevOps.
 <br>- 💬 Ask me about web development, good coding practices and performance optimization.
 <br>- 📫 How to reach me: [mikkel_03@outlook.com](mikkel_03@outlook.com)
-<br>- 💻 Fun Fact: Not only am I passionate about writing clean, scalable code, but I can also hold conversations in 5 languages (and I'm still learning Japanese! 🇯🇵). For me, internationalization is not only key in apps, but also in life and in code!<br>
+<br>- 💻 Fun Fact: Not only am I passionate about writing clean, scalable code, but I can also hold conversations in 5 languages (and I'm still learning Japanese! 🇯🇵). Adaptability is essential not just in coding, but also in life, and speaking multiple languages helps me embrace that mindset.<br>
 
 ## 📲 Connect with me:
 <p align="left">
