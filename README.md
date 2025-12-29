@@ -50,9 +50,6 @@ Software developer skilled in building robust, scalable and performance-focused 
 [![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MLlAlonso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=MLlAlonso&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MLlAlonso&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
